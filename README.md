@@ -90,7 +90,7 @@ NLPtask/
 
  ##  环境配置与依赖
 
-1. 克隆本仓库：    ```bash    git clone <https://github.com/Irrises/NLPtask.git>    cd NLPtask    ```
+1. 克隆本仓库：    ```git clone <https://github.com/Irrises/NLPtask.git>    cd NLPtask    ```
 
 2. 在终端中安装所需的 Python 依赖包。基于 QLoRA 方法，主要依赖项如下：  
 
