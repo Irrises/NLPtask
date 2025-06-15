@@ -94,7 +94,7 @@ NLPtask/
 
 2. 在终端中安装所需的 Python 依赖包。基于 QLoRA 方法，主要依赖项如下：  
 
-     ```pip install torch transformers peft bitsandbytes accelerate sentencepiece hugging face   ```
+     ```pip install torch transformers peft bitsandbytes accelerate sentencepiece huggingface huggingface_hub   ```
 
 3. 下载模型到本地部署
 
